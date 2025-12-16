@@ -1,6 +1,6 @@
-# Encryption-And-Decryption-
-ENcryption DN decryption chatbot for sending private messages 
-Imdex.html
+# Secure Chat
+Encryption and decryption chatbot for sending private messages 
+Index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
